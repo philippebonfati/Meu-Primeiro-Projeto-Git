@@ -1,0 +1,38 @@
+
+.vo {}
+
+.pai {
+    width: 50vw;
+    height: 50vw;
+    background: blue;
+    color: #ffffff;
+    font-size: 32px;
+
+}
+.filho {
+    width: 70%;
+    height: 50%;
+    background: red;
+    color: #ffffff;
+    font-size: 2rem;
+
+
+
+}
+
+
+
+
+
+/*
+RGB
+....RED
+....GREEN
+....BLUE
+
+
+site: color.adobe.com
+
+
+
+*/
