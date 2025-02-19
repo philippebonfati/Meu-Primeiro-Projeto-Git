@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    border: 1px solid red;
+    color: blue;
+
+
+}
+
+input::placeholder {
+    color: violet;
+}
+
+p {
+    color: blue;
+    width: 350px;
+}
+
+p::first-line {
+    color: black;
+}
